@@ -14,4 +14,4 @@ Usei o arquivo arq.c para adicionar informações para criar o arquivo candidato
 ### Questão 3
 
 complexidade: O(nlog(n))
-Usei novamente o arquivo arq.c para criar um arquivo de 20 registros e manualmente alterei os conteúdos dele para criar candidatosA.dat e candidatosB.dat. Só verificar se o programa tem um executável e ao chamá-lo passar os arquivos para ele ler, ele retorna o email de cpfs iguais. Output deve ser 1email@email.com 5email@email.com 10email@email.com , que são os emails dos cpfs em ambos arquivos. 
+Usei novamente o arquivo arq.c para criar um arquivo de 20 registros e manualmente alterei os conteúdos dele para criar candidatosA.dat e candidatosB.dat. Só verificar se o programa tem um executável e ao chamá-lo passar os arquivos para ele ler, ele retorna o email de cpfs iguais. Output deve ser 1email@email.com 5email@email.com 10email@email.com  15email@email.com , que são os emails dos cpfs em ambos arquivos. 
